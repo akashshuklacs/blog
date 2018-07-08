@@ -12,10 +12,18 @@ layout: default
       <p>{{site.about-author}}</p>
     </div>
   </header> <!-- End Header -->
-  <div class="container">
-    <button type="button" class="btn btn-light">Light</button>
-    <button type="button" class="btn btn-light">Light</button>
-  </div>
+
+  <!-- Add button for tags and archive -->
+  
+    <div class="container ">
+      <div class="row justify-content-center align-items-center my-2">
+        <a href="{{ site.url}}{{site.baseurl}}/tags/">
+       <button type="button" class="btn btn-sm btn-light d-block d-sm-inline-block mb-3 mb-sm-0 mr-2">Tags</button></a>
+        <a href="{{ site.url}}{{site.baseurl}}/archive/">
+       <button type="button" class="btn btn-sm btn-light d-block d-sm-inline-block mb-3 mb-sm-0 mr-2">Archive</button></a>
+      </div>
+    </div>
+  <!-- End button -->
   <footer>
     <section class="contact">
       <h3 class="contact-title">Contact me</h3>

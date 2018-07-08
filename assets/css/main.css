@@ -1479,3 +1479,17 @@ a.newer-posts:hover {
     font-size: 21px;
   }
 }
+
+
+
+.archive-post-list{
+    margin-left:0;
+    list-style:none
+}
+.archive-post-list>li{
+    margin-bottom:50px;
+    overflow:hidden
+}
+.archive-post-list h2{
+    margin-bottom:0
+}

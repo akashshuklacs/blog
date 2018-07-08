@@ -1479,17 +1479,3 @@ a.newer-posts:hover {
     font-size: 21px;
   }
 }
-
-
-
-a.archive-post-list{
-    color:#2076e1;
-    text-decoration:none;
-    transition:color .1s
-}
-a.archive-post-list:visited{
-    color:#2076e1
-}
-a.archive-post-list:hover{
-    color:#111
-}

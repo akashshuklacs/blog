@@ -1,8 +1,7 @@
-title: Welcome to my blog
+title: Akash Giri | Blog
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello, I am Akash Giri, welcome to my blog. I write about technical things here
+  and some random stuff that I find useful.
 permalink: ':title/'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://akashgiricse.github.io" # the base hostname & protocol for your site, e.g. http://example.com

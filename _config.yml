@@ -1,27 +1,26 @@
-title: Akash Giri | Blog
+title: Akash Shukla | Blog
 description: > # this means to ignore newlines until "baseurl:"
-  Hello, I am Akash Giri, welcome to my blog. I write about technical things here
-  and some random stuff that I find useful.
+  Hello I am Akash.
 permalink: ':title/'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://akashgiricse.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://akashshuklacs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Akash Giri # add your name
-author-img: mrrango.png # add your photo
-about-author: I am a web developer focusing on back-end development. Always hungry to keep learning. # add description
-social-twitter: akashgiricse # add your Twitter handle
-social-githubpage: akashgiricse # add your root github page handle
-social-github: akashgiricse # add your Github handle
-social-linkedin: akashgiricse # add your Linkedin handle
-social-email: akashgiricse@gmail.com # add your Email address
+author: Akash Shukla # add your name
+author-img: akash-photo.jpg # add your photo
+about-author: I am a man. I've seen trouble all through my days. # add description
+social-twitter:  # add your Twitter handle
+social-githubpage: akashshuklacs # add your root github page handle
+social-github: akashshuklacs # add your Github handle
+social-linkedin: akashshuklacs # add your Linkedin handle
+social-email: akashshuklacse@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: akashgiricse # add your discus identifier
+discus-identifier:  # add your discus identifier
 
 # Tracker
-analytics: UA-121417321-1 # Google Analytics
+analytics: # Google Analytics
 
 # Build Settings
 markdown: kramdown

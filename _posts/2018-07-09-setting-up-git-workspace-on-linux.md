@@ -26,7 +26,7 @@ alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 
 Run the following Git configuration commands. The first one will need to be modified if you are using a text editor other than Sublime, or if Sublime is installed in another location for you. See [this page](https://help.github.com/articles/associating-text-editors-with-git/) for the correct command for a couple of other popular text editors. For any other editor, you'll need to enter the command you use to launch that editor from the terminal.
 
-```
+```shell
 $ git config --global core.editor "'/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl' -n -w"
 $ git config --global push.default upstream
 $ git config --global merge.conflictstyle diff3

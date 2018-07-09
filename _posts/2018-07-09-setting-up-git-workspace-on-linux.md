@@ -7,7 +7,6 @@ img: # Add image post (optional)
 tags: [Tutorial, Git, Linux] # add tag
 ---
 
-## Follow these steps
 #### First of all downloading necessary files
 
 * Save [this file](https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash) in your home directory with the name `git-completion.bash`.

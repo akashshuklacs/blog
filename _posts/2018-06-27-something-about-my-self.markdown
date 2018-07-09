@@ -2,8 +2,9 @@
 layout: post
 title: "Something about myself."
 date: 2018-06-27 05:02:20 +0530
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img:  [Random]# Add image post (optional)
+description: Post about myself.
+img: # Add image post (optional)
+tags: [Random] # add tag
 ---
 
 Hello, I'm Akash Giri, currently pursuing my bachelor's degree in Computer Science and Engineering from Bundelkhand Institute of Engineering and Technology, Jhansi, India.

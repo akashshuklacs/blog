@@ -36,3 +36,5 @@ $ git config --global merge.conflictstyle diff3
 
 #### Restart the terminal
 You'll need to close and re-open the terminal before all your changes take effect.
+<br>
+Link to [GitHub Gist](https://gist.github.com/akashgiricse/744ef21fc8a81f24e1230feb7af4e3e5)
